@@ -7,6 +7,13 @@ The calculator allows users to perform basic arithmetic operations such as addit
 - Visual Studio Code (or IntelliJ / any IDE)
 - Terminal / Command Prompt
 
+It allows the user to perform:
+-Addition
+-Subtraction
+-Multiplication
+-Division 
+The program keeps running in a loop until the user chooses to exit.
+
 How to Run
 1. Clone this repository:
    ```bash
