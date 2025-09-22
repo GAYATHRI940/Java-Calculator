@@ -1,4 +1,4 @@
-# Java Console Calculator
+
 A simple Java console-based calculator built as part of the internship task.  
 The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
